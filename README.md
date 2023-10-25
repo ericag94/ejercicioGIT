@@ -1,0 +1,2 @@
+# ejercicioGIT
+EJERCICIO TIPI
